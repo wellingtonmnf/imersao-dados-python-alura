@@ -31,12 +31,12 @@ O projeto conta com um dashboard interativo publicado na plataforma Streamlit, o
 
 <br>
 
-| Tecnologia | Descrição |
-|------------|-----------|
-| **Python** | Linguagem principal |
-| **Pandas** | Manipulação e análise dos dados |
-| **Streamlit** | Criação do dashboard interativo |
-| **Google Colab** | Ambiente alternativo para execução do código |
+|    Tecnologia     |             Tipo              |                     Função                     |
+|:-----------------:|:-----------------------------:|:----------------------------------------------:|
+|    **Python**     |           Linguagem           |       Linguagem de programação principal       |
+|    **Pandas**     |          Biblioteca           |        Manipulação e análise dos dados         |
+|   **Streamlit**   |          Biblioteca           |        Criação do dashboard interativo         |
+| **Google Colab**  |  Ambiente de Desenvolvimento  |  Ambiente alternativo para execução do código  |
 
 </div>
 
@@ -80,11 +80,11 @@ Este projeto é distribuído sob a Licença MIT.
 ![Topo README.md](images/imersao-instrutores.png)
 ![Topo README.md](images/imersao-topo.png)
 
-| Instrutor                                                             | Área                     | Cargo                        |
-|-----------------------------------------------------------------------|--------------------------|------------------------------|
-| [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/)   | Senior Data/AI Analyst   | Insper; Instrutora na Alura; |
-| [Vinicius Caridá, Ph.D.](https://www.linkedin.com/in/viniciuscarida/) | Human-Centered Data & AI | Instrutor na Alura;          |
-| [Marcell Almeida](https://www.linkedin.com/in/almeidamarcell/)        | CEO & Co-Founder         | PM3                          |
+|                                Instrutor                                |         Atuação          |             Cargo              |
+|:-----------------------------------------------------------------------:|:------------------------:|:------------------------------:|
+|   [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/)   |  Senior Data/AI Analyst  |  Insper; Instrutora na Alura;  |
+|  [Vinicius Caridá, Ph.D.](https://www.linkedin.com/in/viniciuscarida/)  | Human-Centered Data & AI |      Instrutor na Alura;       |
+|     [Marcell Almeida](https://www.linkedin.com/in/almeidamarcell/)      |     CEO & Co-Founder     |              PM3               |
 
 </div>
 
