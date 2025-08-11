@@ -31,12 +31,12 @@ O projeto conta com um dashboard interativo publicado na plataforma Streamlit, o
 
 <br>
 
-|    Tecnologia     |             Tipo              |                     Função                     |
-|:-----------------:|:-----------------------------:|:----------------------------------------------:|
-|    **Python**     |           Linguagem           |       Linguagem de programação principal       |
-|    **Pandas**     |          Biblioteca           |        Manipulação e análise dos dados         |
-|   **Streamlit**   |          Biblioteca           |        Criação do dashboard interativo         |
-| **Google Colab**  |  Ambiente de Desenvolvimento  |  Ambiente alternativo para execução do código  |
+|      Tecnologia      |    Tipo    |                     Função                     |
+|:--------------------:|:----------:|:----------------------------------------------:|
+|    **[Python](https://www.python.org/)**    | Linguagem  |       Linguagem de programação principal       |
+|    **[Pandas](https://pandas.pydata.org/)**    | Biblioteca |        Manipulação e análise dos dados         |
+|  **[Streamlit](https://streamlit.io/)**   | Biblioteca |        Criação do dashboard interativo         |
+| **[Google Colab](https://colab.google/)** |    IDE     |  Ambiente alternativo para execução do código  |
 
 </div>
 
@@ -47,7 +47,7 @@ O projeto conta com um dashboard interativo publicado na plataforma Streamlit, o
 
 2. **Instale as dependências:**
     
-* Recomenda-se criar um ambiente virtual usando `venv` ou rodar no **[Google Colab](https://colab.google/)**.
+* Recomenda-se criar um ambiente virtual usando `venv` ou rodar no **Google Colab**.
 > pip install -r requirements.txt
 
 3. **Execute o Streamlit:**
@@ -62,7 +62,7 @@ O projeto conta com um dashboard interativo publicado na plataforma Streamlit, o
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a Licença MIT.
+Este projeto é distribuído sob a [Licença MIT](LICENSE).
 
 ## 🧑‍💻 Desenvolvimento: 
 
@@ -77,14 +77,13 @@ Este projeto é distribuído sob a Licença MIT.
 
 <div id="topo" align="center">
 
-![Topo README.md](images/imersao-instrutores.png)
-![Topo README.md](images/imersao-topo.png)
+![Topo README.md](images/imersao-alura.png)
 
 |                                Instrutor                                |         Atuação          |             Cargo              |
 |:-----------------------------------------------------------------------:|:------------------------:|:------------------------------:|
-|   [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/)   |  Senior Data/AI Analyst  |  Insper; Instrutora na Alura;  |
 |  [Vinicius Caridá, Ph.D.](https://www.linkedin.com/in/viniciuscarida/)  | Human-Centered Data & AI |      Instrutor na Alura;       |
 |     [Marcell Almeida](https://www.linkedin.com/in/almeidamarcell/)      |     CEO & Co-Founder     |              PM3               |
+|   [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/)   |  Senior Data/AI Analyst  |  Insper; Instrutora na Alura;  |
 
 </div>
 
